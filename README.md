@@ -8,8 +8,6 @@ This project aims to develop an obstacle detection system using deep learning te
 - High Accuracy: Utilizes deep learning models RCNN models from tensorflow for high detection accuracy.
 - Scalability: Easily adaptable to different environments and is highhly light-weight because of Tensorflow Lite model format.
 
-You can watch the demo video here.
-
 ## Installation
 Prerequisites
 Python 3.8+
@@ -30,6 +28,8 @@ conda activate obstacle-detection
 ```
 
 ## About Dataset
+![image](https://github.com/Shreyas1018/Obstacle-Detection-for-self-driving/assets/46682248/050bf7e4-8a5c-4b0c-af1c-f70cf8e23f05)
+
 The model was trained on a custom dataset consisting of various types of obstacles. Dataset can be obtained [here](https://universe.roboflow.com/visually-impaired-obstacle-detection-uxdze/obstacle-detection-yeuzf).
 
 #### Annotations:
